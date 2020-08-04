@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://github.com/htmribeiro/HamiltonRibeiro/blob/main/banner.png">
 
 
 # Hamilton Ribeiro
