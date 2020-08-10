@@ -1,7 +1,7 @@
-<img width="auto" src="https://github.com/htmribeiro/HamiltonRibeiro/blob/main/banner.png">
+<img width="auto" src="https://avatars1.githubusercontent.com/u/36341001?s=460&u=1935bcd93a65998595979029b26aa40c894898ec&v=4">
 
 
-# Hamilton Ribeiro
+# Hamilton Ribeiro - Overview
 
 ## Olá pessoal 👋
 Me fascina a possibilidade de utilizar a programação para resolver problemas.
