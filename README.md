@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 Me fascina a possibilidade de utilizar a programação para resolver problemas.
-<br/>Sou um Analista de Sistemas, me aperfeiçoando para Developer :computer:
+<br/>Sou um Analista de Sistemas, me aperfeiçoando para o mundo Full-Stack :computer:
 
  :rocket:  &nbsp; Estou com grandes expectativas após ter realizado o <NextLevelWeek/> com a **Rocketseat** :smile:
  <br/> :office: &nbsp; Trabalho na **Indra Company Brasil**
