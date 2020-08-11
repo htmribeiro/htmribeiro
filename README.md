@@ -1,6 +1,3 @@
-<img width="auto" src="https://avatars1.githubusercontent.com/u/36341001?s=460&u=1935bcd93a65998595979029b26aa40c894898ec&v=4">
-
-
 # Hamilton Ribeiro - Overview
 
 ## Olá pessoal 👋
