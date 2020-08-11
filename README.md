@@ -1,4 +1,4 @@
-# Hamilton Ribeiro - Overview
+# Hamilton Ribeiro
 
 ## Olá pessoal 👋
 Me fascina a possibilidade de utilizar a programação para resolver problemas.
