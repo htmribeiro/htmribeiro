@@ -4,8 +4,7 @@
 Me fascina a possibilidade de utilizar a programação para resolver problemas.
 <br/>Sou um Analista de Sistemas, me aperfeiçoando para o mundo Full-Stack :computer:
 
- :rocket:  &nbsp; Estou com grandes expectativas após ter realizado o <NextLevelWeek/> com a **Rocketseat** :smile:
- <!-- <br/> :office: &nbsp; Trabalho na **Indra Company Brasil** -->
+ :rocket:  &nbsp; Estou com grandes expectativas após ter realizado o `<NextLevelWeek/>` com a **Rocketseat** :smile:
  <br/> :blush: &nbsp; Atualmente atuando como consultor ***Microsoft SharePoint***.
  <br/> :purple_heart: &nbsp; Focando nos estudos para elaborar projetos Full-Stack.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, música, bíblia, basketball, seriados e filmes
