@@ -5,6 +5,7 @@ Sou Bacharel em Ciência da Computação com experiência há mais de 12 anos at
 • Desenvolvimento, análise e sustentação.
 • Engenharia de Dados - monitoramento, análise e sustentação em pipeline de ingestão de Dados.
 • Automação de processos.
+• Business Intelligence, Big Data & Analytics, ELT / ELT, Tableau, Pandas, Pentaho Data Integration, Spark, PySpark.
 
 💻 Programação:
 • ASP.NET Core, HTML5, CSS3, JavaScript
