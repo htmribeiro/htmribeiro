@@ -1,22 +1,22 @@
 # Hamilton Ribeiro
 
 ## Olá pessoal 👋
-Sou Bacharel em Ciência da Computação com experiência há mais de 12 anos atuando com Sistemas:
-• Desenvolvimento, análise e sustentação.
-• Engenharia de Dados - monitoramento, análise e sustentação em pipeline de ingestão de Dados.
-• Automação de processos.
+Sou Bacharel em Ciência da Computação com experiência há mais de 12 anos atuando com Sistemas:  
+• Desenvolvimento, análise e sustentação.  
+• Engenharia de Dados - monitoramento, análise e sustentação em pipeline de ingestão de Dados.  
+• Automação de processos.  
 • Business Intelligence, Big Data & Analytics, ELT / ELT, Tableau, Pandas, Pentaho Data Integration, Spark, PySpark.
 
-💻 Programação:
-• ASP.NET Core, HTML5, CSS3, JavaScript
+💻 Programação:  
+• ASP.NET Core, HTML5, CSS3, JavaScript  
 • Python, C#, ShellScript
 
-💻 Banco de Dados:
-• Relacionais: SQL Server, MySQL, Oracle, PostgreSQL, AWS Aurora
+💻 Banco de Dados:  
+• Relacionais: SQL Server, MySQL, Oracle, PostgreSQL, AWS Aurora  
 • NoSQL: MongoDB, RedShift
 
-💻 Gerenciamento de projetos:
-• Metodologia Ágil
+💻 Gerenciamento de projetos:  
+• Metodologia Ágil  
 • Jira
 
 > *Me fascina a possibilidade de utilizar a programação para resolver problemas.*
