@@ -29,10 +29,9 @@ meus conhecimentos principais skills de mercado e na cultura Data Driven.
 • Relacionais: SQL Server, MySQL, OracleDB, PostgreSQL, AWS Aurora  
 • NoSQL: MongoDB, AWS DocumentDB, AWS RedShift  
 
-💻 Gerenciamento de projetos:  
-• Metodologia Ágil  
-• Kanban  
-• Jira  
+💻 Metodologia de projetos:  
+• Ágil  
+• Kanban (Jira)
 
 💻 Versionamento:  
 • Git | GitHub  
