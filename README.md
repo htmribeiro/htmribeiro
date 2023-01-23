@@ -9,11 +9,11 @@ desenvolvimento. Trabalhando com tecnologias de Back-end e Front-end, Bancos de
 dados relacionais e não-relacionais.
 
 Em 2019, começou meu interesse pela área de Data Science e iniciei os estudos  
-pela linguagem de programação Python, a qual me identifiquei.
+para conhecer as possibilidades na área.
 
-Em 2021, iniciei a transição de carreira na área de dados ao receber o desafio  
-para atuar como Engenharia de Dados. Desde então, estudando e aprimorando os  
-meus conhecimentos principais skills de mercado e na cultura Data Driven.
+Em 2021, iniciei a transição de carreira na área de Dados ao receber o desafio  
+para atuar como Engenheiro de Dados. Desde então, estudando e aprimorando os  
+meus conhecimentos nas principais skills de mercado e na cultura Data Driven.
 
 💻 Engenharia de Dados:  
 • monitoramento, análise e sustentação em pipeline de ingestão de Dados  
